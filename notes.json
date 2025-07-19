@@ -86,7 +86,13 @@
             ]
           },
           {
-            "type": "paragraph"
+            "type": "codeBlock",
+            "content": [
+              {
+                "type": "text",
+                "text": "npm i @tiptap/core"
+              }
+            ]
           },
           {
             "type": "paragraph",
@@ -191,7 +197,7 @@
       "folderId": null,
       "isFavorite": true,
       "createdAt": 1752918614995,
-      "updatedAt": 1752921217740
+      "updatedAt": 1752921252471
     },
     {
       "id": "102",
