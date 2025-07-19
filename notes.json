@@ -101,7 +101,20 @@
               },
               {
                 "type": "text",
-                "text": " can serve many purposes — like note-taking, math or code annotations, or even collaborative documents. Here’s a general feature list grouped by category:"
+                "text": " can serve many purposes — like "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "highlight"
+                  }
+                ],
+                "text": "note-takin"
+              },
+              {
+                "type": "text",
+                "text": "g, math or code annotations, or even collaborative documents. Here’s a general feature list grouped by category:"
               }
             ]
           },
@@ -1595,7 +1608,7 @@
       "folderId": null,
       "isFavorite": false,
       "createdAt": 1752923474128,
-      "updatedAt": 1752930302990
+      "updatedAt": 1752933919143
     },
     {
       "id": "1752923631753",
