@@ -1632,19 +1632,5 @@
       "createdAt": 1752923631753,
       "updatedAt": 1752925290738
     }
-  ],
-  "todos": [
-    {
-      "task": "Task 1",
-      "category": "cat1",
-      "priority": "medium",
-      "description": "weqwe",
-      "remarks": "312",
-      "completed": false,
-      "dueDate": 1753209000000,
-      "id": "1752935111151",
-      "createdAt": 1752935111151,
-      "updatedAt": 1752935111151
-    }
   ]
 }
