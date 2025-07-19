@@ -156,20 +156,46 @@
     {
       "id": "102",
       "title": "Brainstorming new featureok",
-      "content": null,
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "iii"
+              }
+            ]
+          }
+        ]
+      },
       "folderId": "1",
       "isFavorite": true,
       "createdAt": 1752918614995,
-      "updatedAt": 1752919075926
+      "updatedAt": 1752919100546
     },
     {
       "id": "103",
       "title": "Q3 Planning Session",
-      "content": null,
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "ttyt"
+              }
+            ]
+          }
+        ]
+      },
       "folderId": "2",
       "isFavorite": false,
       "createdAt": 1752918614995,
-      "updatedAt": 1752918614995
+      "updatedAt": 1752919103074
     }
   ]
 }
