@@ -3,12 +3,12 @@
     {
       "id": "1",
       "name": "Project Ideas",
-      "createdAt": 1752918069471
+      "createdAt": 1752918614995
     },
     {
       "id": "2",
       "name": "Meeting Notes",
-      "createdAt": 1752918069471
+      "createdAt": 1752918614995
     }
   ],
   "notes": [
@@ -20,9 +20,6 @@
         "content": [
           {
             "type": "heading",
-            "attrs": {
-              "level": 1
-            },
             "content": [
               {
                 "type": "text",
@@ -47,13 +44,114 @@
                 "text": "You can favorite notes by clicking the star icon."
               }
             ]
+          },
+          {
+            "type": "paragraph"
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hello"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "tet"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "tet"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "er"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "te"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "te"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "t"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
       "folderId": null,
       "isFavorite": true,
-      "createdAt": 1752918069471,
-      "updatedAt": 1752918069471
+      "createdAt": 1752918614995,
+      "updatedAt": 1752918627107
     },
     {
       "id": "102",
@@ -61,8 +159,8 @@
       "content": null,
       "folderId": "1",
       "isFavorite": false,
-      "createdAt": 1752918069471,
-      "updatedAt": 1752918069471
+      "createdAt": 1752918614995,
+      "updatedAt": 1752918614995
     },
     {
       "id": "103",
@@ -70,17 +168,8 @@
       "content": null,
       "folderId": "2",
       "isFavorite": false,
-      "createdAt": 1752918069471,
-      "updatedAt": 1752918069471
-    },
-    {
-      "id": "1752918307181",
-      "title": "Untitled Note",
-      "content": [],
-      "folderId": null,
-      "isFavorite": false,
-      "createdAt": 1752918307181,
-      "updatedAt": 1752918307181
+      "createdAt": 1752918614995,
+      "updatedAt": 1752918614995
     }
   ]
 }
