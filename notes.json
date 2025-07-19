@@ -58,6 +58,20 @@
             ]
           },
           {
+            "type": "blockquote",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hello 👋 "
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "type": "horizontalRule"
           },
           {
@@ -1179,6 +1193,9 @@
             ]
           },
           {
+            "type": "paragraph"
+          },
+          {
             "type": "horizontalRule"
           },
           {
@@ -1578,7 +1595,7 @@
       "folderId": null,
       "isFavorite": false,
       "createdAt": 1752923474128,
-      "updatedAt": 1752924903670
+      "updatedAt": 1752930302990
     },
     {
       "id": "1752923631753",
