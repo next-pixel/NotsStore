@@ -18,190 +18,8 @@
   ],
   "notes": [
     {
-      "id": "101",
-      "title": "Welcome to TheNote",
-      "content": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "heading",
-            "content": [
-              {
-                "type": "text",
-                "text": "Welcome to TheNote!"
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "This is a minimal and clean note-taking app,"
-              },
-              {
-                "type": "text",
-                "marks": [
-                  {
-                    "type": "highlight"
-                  }
-                ],
-                "text": " now powered"
-              },
-              {
-                "type": "text",
-                "text": " by Tiptap. Use the sidebar to navigate, create folders, and manage "
-              },
-              {
-                "type": "text",
-                "marks": [
-                  {
-                    "type": "highlight"
-                  }
-                ],
-                "text": "your notes."
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "You can favorite notes by "
-              },
-              {
-                "type": "text",
-                "marks": [
-                  {
-                    "type": "highlight"
-                  }
-                ],
-                "text": "clicking the "
-              },
-              {
-                "type": "text",
-                "text": "star icon."
-              }
-            ]
-          },
-          {
-            "type": "codeBlock",
-            "content": [
-              {
-                "type": "text",
-                "text": "npm i @tiptap/core"
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "Hello"
-              }
-            ]
-          },
-          {
-            "type": "bulletList",
-            "content": [
-              {
-                "type": "listItem",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "tet"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "listItem",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "tet"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "listItem",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "er"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "listItem",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "te"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "listItem",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "te"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "listItem",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "t"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      "folderId": null,
-      "isFavorite": true,
-      "createdAt": 1752918614995,
-      "updatedAt": 1752921252471
-    },
-    {
-      "id": "102",
-      "title": "Brainstorming new featureok",
+      "id": "1752923474128",
+      "title": "First notes",
       "content": {
         "type": "doc",
         "content": [
@@ -210,75 +28,17 @@
             "content": [
               {
                 "type": "text",
-                "text": "iii"
-              }
-            ]
-          }
-        ]
-      },
-      "folderId": "1",
-      "isFavorite": true,
-      "createdAt": 1752918614995,
-      "updatedAt": 1752919100546
-    },
-    {
-      "id": "103",
-      "title": "Q3 Planning Session",
-      "content": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "ttyt"
-              }
-            ]
-          }
-        ]
-      },
-      "folderId": "2",
-      "isFavorite": false,
-      "createdAt": 1752918614995,
-      "updatedAt": 1752919103074
-    },
-    {
-      "id": "1752919670697",
-      "title": "note 1",
-      "content": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "heading",
-            "content": [
-              {
-                "type": "text",
-                "text": "H1"
-              }
-            ]
-          },
-          {
-            "type": "heading",
-            "content": [
-              {
-                "type": "text",
-                "text": "H2"
-              }
-            ]
-          },
-          {
-            "type": "heading",
-            "content": [
-              {
-                "type": "text",
-                "text": "H3"
+                "text": "Opps Concepts"
               }
             ]
           },
           {
             "type": "paragraph",
             "content": [
+              {
+                "type": "text",
+                "text": "Great! You're asking about "
+              },
               {
                 "type": "text",
                 "marks": [
@@ -286,7 +46,36 @@
                     "type": "bold"
                   }
                 ],
-                "text": "Bold"
+                "text": "“notation app features”"
+              },
+              {
+                "type": "text",
+                "text": " — let’s break down what a "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "notation app"
+              },
+              {
+                "type": "text",
+                "text": " typically includes, and what features you might want depending on your audience (e.g. students, professionals, musicians, developers, etc.)."
+              }
+            ]
+          },
+          {
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "✅ Common Features in a Notation App"
               }
             ]
           },
@@ -295,38 +84,41 @@
             "content": [
               {
                 "type": "text",
-                "marks": [
-                  {
-                    "type": "italic"
-                  }
-                ],
-                "text": "Italic"
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "content": [
+                "text": "A "
+              },
               {
                 "type": "text",
                 "marks": [
                   {
-                    "type": "italic"
-                  },
-                  {
-                    "type": "strike"
+                    "type": "bold"
                   }
                 ],
-                "text": "strike"
+                "text": "notation app"
+              },
+              {
+                "type": "text",
+                "text": " can serve many purposes — like note-taking, math or code annotations, or even collaborative documents. Here’s a general feature list grouped by category:"
               }
             ]
           },
           {
-            "type": "codeBlock",
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
             "content": [
               {
                 "type": "text",
-                "text": "Code"
+                "text": "📄 "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Core Editing Features"
               }
             ]
           },
@@ -341,7 +133,45 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "bullet 1"
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Rich Text Editing"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Bold, italic, underline"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Headings, lists, blockquotes"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -355,7 +185,45 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "2"
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Blocks or Sections"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "bulletList",
+                    "content": [
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Add/remove drag-and-drop blocks (Notion-style)"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Toggle blocks, callouts"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -369,40 +237,31 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "3"
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Markdown Support"
                       }
                     ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "orderedList",
-            "content": [
-              {
-                "type": "listItem",
-                "content": [
+                  },
                   {
-                    "type": "paragraph",
+                    "type": "bulletList",
                     "content": [
                       {
-                        "type": "text",
-                        "text": "ds"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "listItem",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "sd"
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": "Convert markdown to styled text"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -416,134 +275,808 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "ds"
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Keyboard Shortcuts"
                       }
                     ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "blockquote",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
+                  },
                   {
-                    "type": "text",
-                    "text": "fwsdfsdfsdf"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "taskList",
-            "content": [
-              {
-                "type": "taskItem",
-                "content": [
-                  {
-                    "type": "paragraph",
+                    "type": "bulletList",
                     "content": [
                       {
-                        "type": "text",
-                        "text": "rwer"
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "marks": [
+                                  {
+                                    "type": "code"
+                                  }
+                                ],
+                                "text": "/"
+                              },
+                              {
+                                "type": "text",
+                                "text": " command menu (like Notion or Slack)"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
                 ]
-              },
-              {
-                "type": "taskItem",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "ewrwer"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "taskItem",
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "wr"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "wer"
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": "ttetetret "
-              },
-              {
-                "type": "text",
-                "marks": [
-                  {
-                    "type": "superscript"
-                  }
-                ],
-                "text": "otheiortoipert"
-              },
-              {
-                "type": "text",
-                "text": " erp tueoi "
-              },
-              {
-                "type": "text",
-                "marks": [
-                  {
-                    "type": "subscript"
-                  }
-                ],
-                "text": "tuoieu"
-              },
-              {
-                "type": "text",
-                "text": " tu etoiyeot e t ywety "
-              },
-              {
-                "type": "text",
-                "marks": [
-                  {
-                    "type": "highlight"
-                  }
-                ],
-                "text": "oertoyer yoptery"
-              },
-              {
-                "type": "text",
-                "text": " t yert ye twiyotetertge oryt reteri tyiotyoiretioert e"
               }
             ]
           },
           {
             "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "🧮 "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Notation-Specific Features"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "For math, programming, or structured writing:"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "Mathematical Notation"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "LaTeX input"
+                      },
+                      {
+                        "type": "text",
+                        "text": " for math formulas"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Live rendering"
+                      },
+                      {
+                        "type": "text",
+                        "text": " with KaTeX or MathJax"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Inline and block-level formulas"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "Code Notation"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Code blocks"
+                      },
+                      {
+                        "type": "text",
+                        "text": " with syntax highlighting"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Language picker (JS, Python, etc.)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Copy-to-clipboard button"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "Musical Notation (if relevant)"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Sheet music input/rendering"
+                      },
+                      {
+                        "type": "text",
+                        "text": " (via VexFlow or Flat.io)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Playback support"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "MIDI integration (optional)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "💬 "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Annotation Features"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Comments on text selections"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Highlight and reply"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Sidebar with all comments"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Resolvable comments (like Google Docs)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "🤝 "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Collaboration"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Real-time multiplayer editing"
+                      },
+                      {
+                        "type": "text",
+                        "text": " (via Yjs, Liveblocks, or Firebase)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Cursor presence"
+                      },
+                      {
+                        "type": "text",
+                        "text": " (see who’s editing)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Version history / undo-redo"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "User mentions"
+                      },
+                      {
+                        "type": "text",
+                        "text": " (@username)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "📚 "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Content Management"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Notebooks & folders"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Tags or categories"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Starred/favorite notes"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Search and filtering"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "☁️ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Storage & Sync"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Local-only or synced via cloud"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Offline support"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Export options (PDF, Markdown, HTML)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Auto-save"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "🔒 "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "User Features"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Authentication (Sign in, Sign up)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "User settings (themes, font size)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Shareable note links or permissions (view/edit)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "🧪 Optional Advanced Features"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "AI-assisted writing or summarization"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Smart search (semantic or fuzzy)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Citation support (for researchers)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Equation solvers (for students)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "🧱 Tech Stack Recommendation"
+              }
+            ]
           },
           {
             "type": "table",
@@ -559,7 +1092,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "dgfgh"
+                            "text": "Feature"
                           }
                         ]
                       }
@@ -573,49 +1106,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "fger"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "tableHeader",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "text": "erter"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "tableHeader",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "text": "wrewerwe"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "tableHeader",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "text": "r"
+                            "text": "Tool"
                           }
                         ]
                       }
@@ -634,7 +1125,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "tert"
+                            "text": "Editor"
                           }
                         ]
                       }
@@ -648,49 +1139,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "erter"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "tableCell",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "text": "tt"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "tableCell",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "text": "werwer"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "tableCell",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "text": "werwe"
+                            "text": "Tiptap, Slate, or Lexical"
                           }
                         ]
                       }
@@ -709,7 +1158,7 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "etet"
+                            "text": "Math"
                           }
                         ]
                       }
@@ -723,7 +1172,26 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "erte"
+                            "text": "KaTeX / MathJax"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Code"
                           }
                         ]
                       }
@@ -737,7 +1205,26 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "tet"
+                            "text": "Shiki / Prism.js"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Comments"
                           }
                         ]
                       }
@@ -751,7 +1238,26 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "werwer"
+                            "text": "Tiptap Comments Extension + Yjs"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Real-time sync"
                           }
                         ]
                       }
@@ -765,7 +1271,40 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "rwer"
+                            "text": "Yjs / Liveblocks / Supabase"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableRow",
+                "content": [
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Storage"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "tableCell",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Firebase, Supabase, or local IndexedDB"
                           }
                         ]
                       }
@@ -774,13 +1313,160 @@
                 ]
               }
             ]
+          },
+          {
+            "type": "horizontalRule"
+          },
+          {
+            "type": "heading",
+            "content": [
+              {
+                "type": "text",
+                "text": "✅ Want a Starter Template?"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "If you tell me:"
+              }
+            ]
+          },
+          {
+            "type": "bulletList",
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Whether this app is for "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "math"
+                      },
+                      {
+                        "type": "text",
+                        "text": ", "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "code"
+                      },
+                      {
+                        "type": "text",
+                        "text": ", "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "music"
+                      },
+                      {
+                        "type": "text",
+                        "text": ", or "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "general note-taking"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Whether you want "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "collaboration"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "What framework you use ("
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Next.js"
+                      },
+                      {
+                        "type": "text",
+                        "text": "?)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I’ll give you a starter file or project structure. Just say the word!"
+              }
+            ]
           }
         ]
       },
-      "folderId": "1752919667136",
+      "folderId": null,
       "isFavorite": false,
-      "createdAt": 1752919670697,
-      "updatedAt": 1752921927969
+      "createdAt": 1752923474128,
+      "updatedAt": 1752923511988
     }
   ]
 }
