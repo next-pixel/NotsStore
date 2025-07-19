@@ -155,12 +155,12 @@
     },
     {
       "id": "102",
-      "title": "Brainstorming new feature",
+      "title": "Brainstorming new featureok",
       "content": null,
       "folderId": "1",
-      "isFavorite": false,
+      "isFavorite": true,
       "createdAt": 1752918614995,
-      "updatedAt": 1752918614995
+      "updatedAt": 1752919075926
     },
     {
       "id": "103",
