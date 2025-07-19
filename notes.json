@@ -37,7 +37,29 @@
             "content": [
               {
                 "type": "text",
-                "text": "This is a minimal and clean note-taking app, now powered by Tiptap. Use the sidebar to navigate, create folders, and manage your notes."
+                "text": "This is a minimal and clean note-taking app,"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "highlight"
+                  }
+                ],
+                "text": " now powered"
+              },
+              {
+                "type": "text",
+                "text": " by Tiptap. Use the sidebar to navigate, create folders, and manage "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "highlight"
+                  }
+                ],
+                "text": "your notes."
               }
             ]
           },
@@ -46,7 +68,20 @@
             "content": [
               {
                 "type": "text",
-                "text": "You can favorite notes by clicking the star icon."
+                "text": "You can favorite notes by "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "highlight"
+                  }
+                ],
+                "text": "clicking the "
+              },
+              {
+                "type": "text",
+                "text": "star icon."
               }
             ]
           },
@@ -156,7 +191,7 @@
       "folderId": null,
       "isFavorite": true,
       "createdAt": 1752918614995,
-      "updatedAt": 1752918627107
+      "updatedAt": 1752921217740
     },
     {
       "id": "102",
