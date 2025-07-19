@@ -3,7 +3,7 @@
   "notes": [
     {
       "id": "1752923474128",
-      "title": "First notes",
+      "title": "notation app features",
       "content": {
         "type": "doc",
         "content": [
@@ -1450,7 +1450,29 @@
       "folderId": null,
       "isFavorite": false,
       "createdAt": 1752923474128,
-      "updatedAt": 1752923511988
+      "updatedAt": 1752923625129
+    },
+    {
+      "id": "1752923631753",
+      "title": ".Net Code",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "codeBlock",
+            "content": [
+              {
+                "type": "text",
+                "text": "# ThinkPad - Smart Note Taking Application\n\nA sophisticated note-taking application built with Next.js, TypeScript, and Tailwind CSS. Features file organization, tagging, theme customization, and support for both local storage and Supabase database.\n\n## Features\n\n- **File Organization**: Organize notes into folders with hierarchical structure\n- **Note Management**: Create, edit, and delete notes with rich text support\n- **Tagging System**: Add tags to notes for easy categorization and search\n- **Search Functionality**: Search through notes by title, content, or tags\n- **Theme Customization**: Choose from preset themes or create custom themes\n- **Storage Options**: Store notes locally or sync with Supabase database\n- **Responsive Design**: Works on desktop and mobile devices\n- **Dark Theme**: Beautiful dark interface with purple accents\n\n## Tech Stack\n\n- **Framework**: Next.js 14 with App Router\n- **Language**: TypeScript\n- **Styling**: Tailwind CSS\n- **Icons**: Heroicons\n- **Database**: Local Storage / Supabase (optional)\n- **Font**: Inter\n\n## Getting Started\n\n### Prerequisites\n\n- Node.js 18+ installed\n- npm or yarn package manager\n\n### Installation\n\n1. Clone the repository:\n```bash\ngit clone <repository-url>\ncd ThinkPad\n```\n\n2. Install dependencies:\n```bash\nnpm install\n```\n\n3. Start the development server:\n```bash\nnpm run dev\n```\n\n4. Open [http://localhost:3000](http://localhost:3000) in your browser\n\n### First Time Setup\n\n1. When you first launch the app, you'll see a storage setup screen\n2. Choose between:\n   - **Local Storage**: Stores notes in your browser's local storage\n   - **Supabase Database**: Sync notes across devices (requires Supabase account)\n\n### For Supabase Setup (Optional)\n\n1. Create a Supabase account at [supabase.com](https://supabase.com)\n2. Create a new project\n3. Get your project URL and anon key from Settings > API\n4. Create a `.env.local` file in the root of your project.\n5. Add your Supabase credentials to this file:\n```\nNEXT_PUBLIC_SUPABASE_URL=YOUR_PROJECT_URL\nNEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_ANON_KEY\n```\n6. The application will now use these credentials automatically. You can also enter them in the setup screen if you prefer not to use an environment file.\n\n## Usage\n\n### Creating Notes\n\n1. Click the \"New Note\" button in the sidebar\n2. Enter a title and start writing\n3. Add tags by typing in the tag input field\n4. Notes are auto-saved as you type\n\n### Organizing with Folders\n\n1. Click the \"+\" button next to \"FOLDERS\" in the sidebar\n2. Create folder hierarchies by creating subfolders\n3. Drag notes into folders (or select folder when creating)\n\n### Tagging System\n\n1. Add tags to notes in the editor\n2. View all tags in the Tags tab\n3. Filter notes by clicking on tags\n4. Create custom colored tags\n\n### Theme Customization\n\n1. Click the settings icon in the top-right of the sidebar\n2. Choose from preset themes or create custom themes\n3. Customize colors for primary, background, and accent colors\n4. Themes are saved and applied across sessions\n\n### Search\n\n1. Use the search bar in the sidebar\n2. Search by note title, content, or tags\n3. Results update in real-time as you type\n\n## Keyboard Shortcuts\n\n- `Enter` - Add a new tag when in tag input field\n- `Escape` - Close dialogs and modals\n\n## Project Structure\n\n```\nsrc/\n├── app/              # Next.js App Router pages\n├── components/       # React components\n├── contexts/         # React Context providers\n├── types/           # TypeScript type definitions\n└── styles/          # CSS styles\n```\n\n## Key Components\n\n- **StorageSetup**: Initial setup for choosing storage type\n- **Sidebar**: Navigation, folders, tags, and search\n- **NoteList**: List of notes with filtering\n- **NoteEditor**: Rich text editor for notes\n- **FolderTree**: Hierarchical folder navigation\n- **ThemeCustomizer**: Theme selection and customization\n\n## Development\n\n### Available Scripts\n\n- `npm run dev` - Start development server\n- `npm run build` - Build for production\n- `npm run start` - Start production server\n- `npm run lint` - Run ESLint\n\n### Building for Production\n\n```bash\nnpm run build\nnpm run start\n```\n\n## Storage\n\n### Local Storage\n- Notes are stored in browser's localStorage\n- Data persists across browser sessions\n- Limited to single device\n\n### Supabase Integration\n- Cloud database storage\n- Sync across multiple devices\n- Real-time updates (planned feature)\n\n## Contributing\n\n1. Fork the repository\n2. Create a feature branch\n3. Make your changes\n4. Submit a pull request\n\n## License\n\nMIT License - feel free to use this project for personal or commercial purposes.\n\n## Support\n\nFor issues or questions, please create an issue in the GitHub repository.\n\n---\n\nBuilt with ❤️ using Next.js, TypeScript, and Tailwind CSS\n"
+              }
+            ]
+          }
+        ]
+      },
+      "folderId": null,
+      "isFavorite": false,
+      "createdAt": 1752923631753,
+      "updatedAt": 1752923652262
     }
   ]
 }
