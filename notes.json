@@ -1,0 +1,86 @@
+{
+  "folders": [
+    {
+      "id": "1",
+      "name": "Project Ideas",
+      "createdAt": 1752918069471
+    },
+    {
+      "id": "2",
+      "name": "Meeting Notes",
+      "createdAt": 1752918069471
+    }
+  ],
+  "notes": [
+    {
+      "id": "101",
+      "title": "Welcome to TheNote",
+      "content": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 1
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "Welcome to TheNote!"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This is a minimal and clean note-taking app, now powered by Tiptap. Use the sidebar to navigate, create folders, and manage your notes."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "You can favorite notes by clicking the star icon."
+              }
+            ]
+          }
+        ]
+      },
+      "folderId": null,
+      "isFavorite": true,
+      "createdAt": 1752918069471,
+      "updatedAt": 1752918069471
+    },
+    {
+      "id": "102",
+      "title": "Brainstorming new feature",
+      "content": null,
+      "folderId": "1",
+      "isFavorite": false,
+      "createdAt": 1752918069471,
+      "updatedAt": 1752918069471
+    },
+    {
+      "id": "103",
+      "title": "Q3 Planning Session",
+      "content": null,
+      "folderId": "2",
+      "isFavorite": false,
+      "createdAt": 1752918069471,
+      "updatedAt": 1752918069471
+    },
+    {
+      "id": "1752918307181",
+      "title": "Untitled Note",
+      "content": [],
+      "folderId": null,
+      "isFavorite": false,
+      "createdAt": 1752918307181,
+      "updatedAt": 1752918307181
+    }
+  ]
+}
