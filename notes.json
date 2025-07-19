@@ -1,21 +1,5 @@
 {
-  "folders": [
-    {
-      "id": "1",
-      "name": "Project Ideas",
-      "createdAt": 1752918614995
-    },
-    {
-      "id": "2",
-      "name": "Meeting Notes2",
-      "createdAt": 1752918614995
-    },
-    {
-      "id": "1752919667136",
-      "name": "test1",
-      "createdAt": 1752919667136
-    }
-  ],
+  "folders": [],
   "notes": [
     {
       "id": "1752923474128",
